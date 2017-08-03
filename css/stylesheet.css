@@ -1,7 +1,10 @@
 body{
-	background: #F3F3D3;
+	background: #F3F3D3 !important;
 }
 p{
 	color: #073D3E;
 	font-family: "Roboto";
+}
+nav{
+	background: #ABAB89 !important;
 }
